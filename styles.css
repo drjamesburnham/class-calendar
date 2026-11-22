@@ -41,7 +41,7 @@
 .announcement-stack{display:grid;grid-column:1;gap:12px}
 .calendar-qr{display:grid;justify-items:center;justify-self:start;width:max-content;flex-shrink:0;
   color:var(--teal);font-size:14px;font-weight:650;text-decoration:none}
-.class-intro .calendar-qr{grid-column:2;grid-row:1}
+.class-intro .calendar-qr{grid-column:2;grid-row:1;justify-self:center}
 .calendar-qr img{display:block;width:136px;height:136px;background:#fff;border-radius:8px;image-rendering:pixelated}
 .calendar-qr span{margin-top:5px;text-decoration:underline}
 @media(max-width:900px){.class-intro{grid-template-columns:minmax(0,1fr) 250px;gap:16px}}
