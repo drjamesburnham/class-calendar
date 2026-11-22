@@ -36,7 +36,19 @@
 .planning-row{grid-template-columns:100px minmax(0,1fr)}
 @media(max-width:720px){.planning-row{grid-template-columns:80px minmax(0,1fr)}}
 
-.announcement-stack{display:grid;gap:12px;margin-bottom:22px}
+.welcome-panel{display:flex;justify-content:space-between;align-items:center;gap:14px;text-align:left;padding:24px}
+.class-intro{display:grid;grid-template-columns:minmax(0,1fr) 285px;gap:22px;align-items:start;margin-bottom:22px}
+.announcement-stack{display:grid;grid-column:1;gap:12px}
+.calendar-qr{display:grid;justify-items:center;justify-self:start;width:max-content;flex-shrink:0;
+  color:var(--teal);font-size:14px;font-weight:650;text-decoration:none}
+.class-intro .calendar-qr{grid-column:2;grid-row:1}
+.calendar-qr img{display:block;width:136px;height:136px;background:#fff;border-radius:8px;image-rendering:pixelated}
+.calendar-qr span{margin-top:5px;text-decoration:underline}
+@media(max-width:900px){.class-intro{grid-template-columns:minmax(0,1fr) 250px;gap:16px}}
+@media(max-width:720px){
+  .class-intro{grid-template-columns:minmax(0,1fr) auto;gap:12px}
+  .calendar-qr img{width:100px;height:100px}
+}
 .announcement-card{margin:0}.announcement-title{font-size:16px;font-weight:650;line-height:1.5}
 .announcement-body{font-size:16px;line-height:1.6;margin-top:3px;white-space:pre-line}
 .announcement-items{list-style:none;margin:8px 0 0;padding:0;display:grid;gap:9px}

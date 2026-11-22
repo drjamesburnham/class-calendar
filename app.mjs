@@ -245,6 +245,8 @@ function render() {
   $("welcome").hidden = !!state.period;
   $("class-panel").hidden = !state.period;
   if (!state.period) return;
+  const qr = $("calendar-qr");
+  if (qr.parentElement !== $("class-intro")) $("class-intro").append(qr);
   const period = PERIODS.find(item => item.id === state.period);
   $("class-panel").setAttribute("aria-labelledby", "period-" + state.period);
   $("class-title").textContent = period.course + " · Period " + period.id;
