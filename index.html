@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="Dr. Burnham's English class calendar and proposed due dates.">
+  <title>Class Calendar · Dr. Burnham</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#class-panel">Skip to class calendar</a>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <a class="wordmark" href="./" aria-label="Dr. Burnham's class calendar home"><span class="monogram" aria-hidden="true">JB</span><span>Dr. Burnham <span class="wordmark-detail">English</span></span></a>
+      <span class="term-label">Semester 1 <span>2026</span></span>
+    </div>
+  </header>
+  <main class="page-shell">
+    <div class="page-heading">
+      <div><h1>Classwork &amp; due dates</h1></div>
+      <p class="update-label" id="update-label"></p>
+    </div>
+    <nav class="period-tabs" id="period-tabs" role="tablist" aria-label="Choose your class period"></nav>
+    <div id="welcome" class="welcome-panel"><h2>Choose your period.</h2></div>
+    <section id="class-panel" role="tabpanel" hidden>
+      <div class="class-heading"><div><p class="eyebrow" id="class-days"></p><h2 id="class-title"></h2></div><p class="remember-note" id="remember-note" hidden></p></div>
+      <section class="announcement-stack" id="announcements" aria-label="Announcements"></section>
+      <section id="calendar-panel" aria-label="Classwork and calendars">
+        <div class="calendar-layout">
+          <section class="calendar-main weekly-calendar" aria-label="Week view">
+            <div class="calendar-toolbar">
+              <div><p class="eyebrow" id="range-caption">THIS WEEK</p><h3 id="range-title"></h3></div>
+              <div class="calendar-tools">
+                <div class="date-buttons"><button type="button" id="previous-date" aria-label="Previous week">Previous</button><button type="button" id="current-date">This week</button><button type="button" id="next-date" aria-label="Next week">Next</button></div>
+              </div>
+            </div>
+            <p class="calendar-key"><span><i class="key-dot lesson-dot"></i><span id="week-lesson-key">In class</span></span><span><i class="key-dot hard-dot"></i>Due</span></p>
+            <div id="calendar-content" aria-live="polite"></div>
+            <p class="release-note" id="release-note" hidden></p>
+          </section>
+          <aside class="schedule-sidebar" aria-label="Due Last, Due Next, and Scheduled">
+            <section class="due-section" aria-labelledby="due-last-heading">
+              <h3 id="due-last-heading">Due Last</h3>
+              <div id="due-last-preview"></div>
+            </section>
+            <section class="due-section" aria-labelledby="due-next-heading">
+              <h3 id="due-next-heading">Due Next</h3>
+              <div id="due-next-preview"></div>
+            </section>
+            <div class="section-label"><h3>Scheduled</h3></div>
+            <p class="schedule-range" id="scheduled-range"></p>
+            <div id="scheduled-preview"></div>
+          </aside>
+          <section class="calendar-main monthly-calendar" aria-label="Month view">
+            <div class="calendar-toolbar">
+              <div><p class="eyebrow">MONTH</p><h3 id="month-title"></h3></div>
+              <div class="date-buttons"><button type="button" id="previous-month" aria-label="Previous month">Previous</button><button type="button" id="current-month">This month</button><button type="button" id="next-month" aria-label="Next month">Next</button></div>
+            </div>
+            <p class="calendar-key"><span><i class="key-dot lesson-dot"></i>In class</span><span><i class="key-dot hard-dot"></i>Due</span></p>
+            <div id="month-content" aria-live="polite"></div>
+          </section>
+        </div>
+      </section>
+    </section>
+    <footer class="page-footer"><span>Dr. Burnham · English 9 &amp; Senior English</span></footer>
+  </main>
+  <dialog id="item-dialog" aria-labelledby="dialog-title">
+    <button class="dialog-close" type="button" id="close-dialog" aria-label="Close details">Close</button>
+    <p class="eyebrow" id="dialog-category"></p><h2 id="dialog-title"></h2><p class="dialog-date" id="dialog-date"></p><p id="dialog-body"></p>
+    <a id="dialog-material" class="material-link" hidden>Open assignment directions</a>
+  </dialog>
+  <p id="load-error" class="load-error" role="alert" hidden>We could not load the calendar. Please refresh the page.</p>
+  <script type="module" src="./app.mjs"></script>
+</body>
+</html>

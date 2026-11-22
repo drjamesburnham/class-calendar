@@ -1,0 +1,1761 @@
+{
+  "schema": 1,
+  "builtOn": "2026-11-21",
+  "releasedThrough": "2026-11-22",
+  "calendarCheckedOn": "2026-11-21",
+  "termEnd": "2026-12-18",
+  "lessons": [
+    {
+      "id": "8af429ae37594c",
+      "date": "2026-09-15",
+      "period": 1,
+      "title": "The Odyssey–Epic and Trojan War Intro",
+      "description": "Students were introduced to epic poetry, oral tradition, Trojan War background, Odysseus, and his family through the presentation and guided notes."
+    },
+    {
+      "id": "49009ce14d049a",
+      "date": "2026-09-16",
+      "period": 2,
+      "title": "Beowulf–Game Day 2",
+      "description": "Students completed Game Day 2 by trading direct resource cards and building community projects in preparation for the next simulation phase."
+    },
+    {
+      "id": "c16b34d44b1f84",
+      "date": "2026-09-16",
+      "period": 4,
+      "title": "The Odyssey–Epic and Trojan War Intro",
+      "description": "Students were introduced to epic poetry, oral tradition, Trojan War background, Odysseus, and his family through the presentation and guided notes."
+    },
+    {
+      "id": "6cc8091a9d58b4",
+      "date": "2026-09-17",
+      "period": 1,
+      "title": "The Odyssey–Cause and Effect",
+      "description": "Students examined cause and effect through Odysseus's choices, Poseidon's response, and the consequences of human action and divine reaction."
+    },
+    {
+      "id": "8ee7d34fa7dbca",
+      "date": "2026-09-18",
+      "period": 2,
+      "title": "Genius Project–Introduction and Question Development",
+      "description": "Students began the Senior Genius Project introduction and Step 1: Question Development."
+    },
+    {
+      "id": "74b91c150ae960",
+      "date": "2026-09-18",
+      "period": 4,
+      "title": "The Odyssey–Cause and Effect",
+      "description": "Students examined cause and effect through Odysseus's choices, Poseidon's response, and the consequences of human action and divine reaction."
+    },
+    {
+      "id": "df336b4603a07a",
+      "date": "2026-09-21",
+      "period": 1,
+      "title": "The Odyssey–Lotus Eaters",
+      "description": "Lotus Eaters and the Lotus Art Project"
+    },
+    {
+      "id": "dd2d312e7dde0e",
+      "date": "2026-09-21",
+      "period": 5,
+      "title": "Beowulf Lecture & Game Day 3",
+      "description": "Students will study Beowulf's society in a lecture, then build and test their own society in Game Day 3."
+    },
+    {
+      "id": "22afade1566f16",
+      "date": "2026-09-21",
+      "period": 7,
+      "title": "Beowulf Lecture & Game Day 3",
+      "description": "Students will study Beowulf's society in a lecture, then build and test their own society in Game Day 3."
+    },
+    {
+      "id": "7a04f390e4e2da",
+      "date": "2026-09-22",
+      "period": 2,
+      "title": "Beowulf Lecture & Game Day 3",
+      "description": "Students will study Beowulf's society in a lecture, then build and test their own society in Game Day 3."
+    },
+    {
+      "id": "e201e45e38d2a0",
+      "date": "2026-09-22",
+      "period": 4,
+      "title": "The Odyssey–Lotus Eaters",
+      "description": "Lotus Eaters and the Lotus Art Project"
+    },
+    {
+      "id": "24ada1c0a77520",
+      "date": "2026-09-23",
+      "period": 1,
+      "title": "Lotus Flower Journal and Vocabulary Level 1 Introduction",
+      "description": "Lotus Flower Journal Entry; Vocab Introduction; Vocab Level 1 Wordbox"
+    },
+    {
+      "id": "7e2ff916cdad93",
+      "date": "2026-09-23",
+      "period": 5,
+      "title": "Genius Project–Introduction and Question Development",
+      "description": "Students will begin the Senior Genius Project introduction and Step 1: Question Development."
+    },
+    {
+      "id": "87335bbd29a045",
+      "date": "2026-09-23",
+      "period": 7,
+      "title": "Genius Project–Introduction and Question Development",
+      "description": "Students will begin the Senior Genius Project introduction and Step 1: Question Development."
+    },
+    {
+      "id": "2b41446684926e",
+      "date": "2026-09-24",
+      "period": 2,
+      "title": "Grendel prewrite and reading",
+      "description": "We completed the discussion questions."
+    },
+    {
+      "id": "ff6e0ff85de1e1",
+      "date": "2026-09-24",
+      "period": 4,
+      "title": "Cyclops",
+      "description": "Lotus Flower Journal Entry"
+    },
+    {
+      "id": "7d98f35ee20af5",
+      "date": "2026-09-25",
+      "period": 1,
+      "title": "Cyclops",
+      "description": ""
+    },
+    {
+      "id": "ca8d08403d267c",
+      "date": "2026-09-28",
+      "period": 2,
+      "title": "Gardner's Grendel",
+      "description": "Kennings worksheet warm-up, animated Beowulf, and Gardner’s Grendel."
+    },
+    {
+      "id": "ac54c153f14258",
+      "date": "2026-09-28",
+      "period": 4,
+      "title": "Cause & Effect",
+      "description": ""
+    },
+    {
+      "id": "f5b67fb2d6ee3f",
+      "date": "2026-09-29",
+      "period": 1,
+      "title": "Cause & Effect",
+      "description": ""
+    },
+    {
+      "id": "39d478b66dfbc6",
+      "date": "2026-09-29",
+      "period": 5,
+      "title": "Gardner's Grendel",
+      "description": "Kennings worksheet warm-up, animated Beowulf, and Gardner’s Grendel."
+    },
+    {
+      "id": "e291f9e9014df0",
+      "date": "2026-09-29",
+      "period": 7,
+      "title": "Gardner's Grendel",
+      "description": "Kennings worksheet warm-up, animated Beowulf, and Gardner’s Grendel."
+    },
+    {
+      "id": "5c1ac924a182a4",
+      "date": "2026-09-30",
+      "period": 2,
+      "title": "Genius Project–Question and Proposal Checkpoint",
+      "description": "Blog 1. Give an update and find three research sources."
+    },
+    {
+      "id": "604c97a9178e90",
+      "date": "2026-09-30",
+      "period": 4,
+      "title": "Vocabulary Level 1 Introduction",
+      "description": "Vocab Introduction; Vocab Level 1 Wordbox"
+    },
+    {
+      "id": "41ac165a1ca0f1",
+      "date": "2026-10-01",
+      "period": 1,
+      "title": "Circe PW and Reading",
+      "description": ""
+    },
+    {
+      "id": "61919b493f81e5",
+      "date": "2026-10-01",
+      "period": 5,
+      "title": "Frankenstein",
+      "description": "Three excerpts"
+    },
+    {
+      "id": "369b8d63f86d43",
+      "date": "2026-10-01",
+      "period": 7,
+      "title": "Frankenstein",
+      "description": "Three excerpts"
+    },
+    {
+      "id": "1fd122f89edb79",
+      "date": "2026-10-02",
+      "period": 2,
+      "title": "Frankenstein",
+      "description": "Three excerpts"
+    },
+    {
+      "id": "c1399671d11eea",
+      "date": "2026-10-02",
+      "period": 4,
+      "title": "Circe PW and Reading",
+      "description": ""
+    },
+    {
+      "id": "93bfedbf7bd83a",
+      "date": "2026-10-06",
+      "period": 2,
+      "title": "Beowulf questions",
+      "description": "Complete the Beowulf questions. Genius Project resources."
+    },
+    {
+      "id": "8ba525880b8385",
+      "date": "2026-10-06",
+      "period": 4,
+      "title": "Circe's questions",
+      "description": ""
+    },
+    {
+      "id": "9ecef8b0c9732c",
+      "date": "2026-10-07",
+      "period": 1,
+      "title": "Vocabulary-Circe",
+      "description": ""
+    },
+    {
+      "id": "967df42f9fbae7",
+      "date": "2026-10-07",
+      "period": 5,
+      "title": "Genius 3 / Grendel Fight",
+      "description": "Students will submit a focused inquiry question and complete project proposal covering purpose, product or presentation, resources, timeline, costs, permissions, and concerns."
+    },
+    {
+      "id": "1a5991196ff439",
+      "date": "2026-10-07",
+      "period": 7,
+      "title": "Genius 3 / Grendel Fight",
+      "description": "Students will submit a focused inquiry question and complete project proposal covering purpose, product or presentation, resources, timeline, costs, permissions, and concerns."
+    },
+    {
+      "id": "4b5faa43e35ad1",
+      "date": "2026-10-08",
+      "period": 2,
+      "title": "Battle With Grendel",
+      "description": ""
+    },
+    {
+      "id": "93f8252db1fc1e",
+      "date": "2026-10-09",
+      "period": 5,
+      "title": "Battle With Grendel",
+      "description": ""
+    },
+    {
+      "id": "25fa255f15675a",
+      "date": "2026-10-09",
+      "period": 7,
+      "title": "Battle With Grendel",
+      "description": ""
+    },
+    {
+      "id": "bcc68ca947637d",
+      "date": "2026-10-19",
+      "period": 2,
+      "title": "Battle With Grendel's Mother",
+      "description": ""
+    },
+    {
+      "id": "da3855db096c22",
+      "date": "2026-10-19",
+      "period": 4,
+      "title": "Sirens, Scylla, Charybdis",
+      "description": ""
+    },
+    {
+      "id": "d6d8479bb25aae",
+      "date": "2026-10-20",
+      "period": 1,
+      "title": "Sirens, Scylla, Charybdis",
+      "description": ""
+    },
+    {
+      "id": "e41039391c8675",
+      "date": "2026-10-20",
+      "period": 5,
+      "title": "Battle With Grendel's Mother",
+      "description": ""
+    },
+    {
+      "id": "49784ff2a12dbd",
+      "date": "2026-10-20",
+      "period": 7,
+      "title": "Battle With Grendel's Mother",
+      "description": ""
+    },
+    {
+      "id": "3833bfe5cba88c",
+      "date": "2026-10-21",
+      "period": 2,
+      "title": "Genius Project–Research and Conference 1",
+      "description": "Students will show initial research, discuss progress and obstacles, revise the project's scope, and record the next required action."
+    },
+    {
+      "id": "3809af1daed3fb",
+      "date": "2026-10-21",
+      "period": 4,
+      "title": "Vocabulary–Journal Entry 6",
+      "description": "Students will complete Journal Entry 6 and continue the scheduled Semester 1 vocabulary routine."
+    },
+    {
+      "id": "0d6f14272d4664",
+      "date": "2026-10-22",
+      "period": 1,
+      "title": "Test Review",
+      "description": ""
+    },
+    {
+      "id": "ffaa9917e5cd25",
+      "date": "2026-10-22",
+      "period": 5,
+      "title": "Beowulf and the Dragon / Character Maps Intro",
+      "description": ""
+    },
+    {
+      "id": "feb5dcbbbb3639",
+      "date": "2026-10-22",
+      "period": 7,
+      "title": "Beowulf and the Dragon",
+      "description": ""
+    },
+    {
+      "id": "1b279e241cb883",
+      "date": "2026-10-23",
+      "period": 2,
+      "title": "Beowulf and the Dragon",
+      "description": ""
+    },
+    {
+      "id": "7c822c5d844427",
+      "date": "2026-10-23",
+      "period": 4,
+      "title": "Test Review",
+      "description": ""
+    },
+    {
+      "id": "36e0bbfbda9879",
+      "date": "2026-10-26",
+      "period": 1,
+      "title": "Odyssey Test",
+      "description": ""
+    },
+    {
+      "id": "b9b70b6fb167a5",
+      "date": "2026-10-26",
+      "period": 5,
+      "title": "Study Guide Beowulf",
+      "description": ""
+    },
+    {
+      "id": "400574eeacc8a3",
+      "date": "2026-10-26",
+      "period": 7,
+      "title": "Study Guide Beowulf",
+      "description": ""
+    },
+    {
+      "id": "4c57c6c0e8b6d8",
+      "date": "2026-10-27",
+      "period": 2,
+      "title": "Study Guide Beowulf",
+      "description": ""
+    },
+    {
+      "id": "ef6710825524df",
+      "date": "2026-10-27",
+      "period": 4,
+      "title": "Odyssey Test",
+      "description": ""
+    },
+    {
+      "id": "43368047f16850",
+      "date": "2026-10-28",
+      "period": 1,
+      "title": "Vocabulary–Journal Entry 7",
+      "description": "Students will complete Journal Entry 7 and continue the scheduled Semester 1 vocabulary routine."
+    },
+    {
+      "id": "aa24a029e318b3",
+      "date": "2026-10-28",
+      "period": 2,
+      "title": "Beowulf Test",
+      "description": ""
+    },
+    {
+      "id": "a0f82f37b0e9d6",
+      "date": "2026-10-28",
+      "period": 7,
+      "title": "Beowulf Test",
+      "description": ""
+    },
+    {
+      "id": "579a0590281ee3",
+      "date": "2026-10-29",
+      "period": 2,
+      "title": "Dramatic Irony",
+      "description": ""
+    },
+    {
+      "id": "3fa2bef42cec10",
+      "date": "2026-10-29",
+      "period": 4,
+      "title": "Dramatic Irony",
+      "description": ""
+    },
+    {
+      "id": "ca6312b2845f2b",
+      "date": "2026-10-30",
+      "period": 1,
+      "title": "Dramatic Irony",
+      "description": ""
+    },
+    {
+      "id": "b599a689ea7e2c",
+      "date": "2026-10-30",
+      "period": 5,
+      "title": "Dramatic Irony",
+      "description": ""
+    },
+    {
+      "id": "7390b9940c7c0e",
+      "date": "2026-10-30",
+      "period": 7,
+      "title": "Dramatic Irony",
+      "description": ""
+    },
+    {
+      "id": "91419e0eef67f1",
+      "date": "2026-11-02",
+      "period": 2,
+      "title": "Arthur Intro slides / Becomes King",
+      "description": ""
+    },
+    {
+      "id": "869daa0ca55919",
+      "date": "2026-11-02",
+      "period": 4,
+      "title": "Hooks in Essays",
+      "description": ""
+    },
+    {
+      "id": "90c4b0ce368e8e",
+      "date": "2026-11-03",
+      "period": 1,
+      "title": "Hooks in Essays",
+      "description": ""
+    },
+    {
+      "id": "d15e233cc45c1e",
+      "date": "2026-11-03",
+      "period": 5,
+      "title": "Arthur Intro slides / Becomes King",
+      "description": ""
+    },
+    {
+      "id": "dd2c707894b88e",
+      "date": "2026-11-03",
+      "period": 7,
+      "title": "Arthur Intro slides / Becomes King",
+      "description": ""
+    },
+    {
+      "id": "c5257905cc36b0",
+      "date": "2026-11-04",
+      "period": 2,
+      "title": "Research Due / Character Maps Intro",
+      "description": "Students will present their product development plan and synthesize how research is changing their conclusions and project decisions."
+    },
+    {
+      "id": "cb8a0e0b8e9dbb",
+      "date": "2026-11-04",
+      "period": 4,
+      "title": "Vocabulary 2–Journal Entry 7",
+      "description": "Students will complete Journal Entry 7 and continue the scheduled Semester 1 vocabulary routine."
+    },
+    {
+      "id": "80710b203040e8",
+      "date": "2026-11-05",
+      "period": 1,
+      "title": "Beggar at the Manor",
+      "description": ""
+    },
+    {
+      "id": "aa98be0e872679",
+      "date": "2026-11-05",
+      "period": 5,
+      "title": "Arthur / Lady of Shalott",
+      "description": ""
+    },
+    {
+      "id": "58f9eea7c50c52",
+      "date": "2026-11-05",
+      "period": 7,
+      "title": "Arthur / Lady of Shalott",
+      "description": ""
+    },
+    {
+      "id": "726c895e69f452",
+      "date": "2026-11-06",
+      "period": 2,
+      "title": "Arthur / Lady of Shalott",
+      "description": ""
+    },
+    {
+      "id": "1adbb5194b0176",
+      "date": "2026-11-06",
+      "period": 4,
+      "title": "Beggar at the Manor",
+      "description": ""
+    },
+    {
+      "id": "1d0e7279093ff7",
+      "date": "2026-11-09",
+      "period": 1,
+      "title": "The Test of the Bow",
+      "description": "Watch the movie up to 2:03."
+    },
+    {
+      "id": "077b07b42e9b07",
+      "date": "2026-11-09",
+      "period": 5,
+      "title": "Genius Project Update / Sir Gawain and the Loathly Lady",
+      "description": ""
+    },
+    {
+      "id": "43a10a9fa52dfd",
+      "date": "2026-11-09",
+      "period": 7,
+      "title": "Genius Project Update / Sir Gawain and the Loathly Lady",
+      "description": ""
+    },
+    {
+      "id": "e6f76aaf24658b",
+      "date": "2026-11-10",
+      "period": 2,
+      "title": "Genius Project Update / Sir Gawain and the Loathly Lady",
+      "description": ""
+    },
+    {
+      "id": "fbe144f9d281cb",
+      "date": "2026-11-10",
+      "period": 4,
+      "title": "The Test of the Bow",
+      "description": "Watch the movie."
+    },
+    {
+      "id": "d6b1b5211b2bea",
+      "date": "2026-11-12",
+      "period": 1,
+      "title": "The Trunk of the Olive Tree / Homecoming Summary Check",
+      "description": "After completing “Death in the Great Hall,” “The Trunk of the Olive Tree,” and the movie, students answer twelve comprehension and understanding questions using details from the readings.<br>"
+    },
+    {
+      "id": "4e81f1836c887c",
+      "date": "2026-11-12",
+      "period": 5,
+      "title": "The Lady of Shalott",
+      "description": "Finish the movie."
+    },
+    {
+      "id": "5854cee92006f6",
+      "date": "2026-11-12",
+      "period": 7,
+      "title": "The Lady of Shalott",
+      "description": ""
+    },
+    {
+      "id": "d73c2ca537a9d5",
+      "date": "2026-11-13",
+      "period": 2,
+      "title": "The Lady of Shalott",
+      "description": ""
+    },
+    {
+      "id": "2a5ea11ff2f0bf",
+      "date": "2026-11-13",
+      "period": 4,
+      "title": "The Trunk of the Olive Tree / Homecoming Summary Check",
+      "description": "After completing “Death in the Great Hall,” “The Trunk of the Olive Tree,” and the movie, students answer twelve comprehension and understanding questions using details from the readings.<br>"
+    },
+    {
+      "id": "8dbd529cc452da",
+      "date": "2026-11-16",
+      "period": 1,
+      "title": "Prewrite / Odyssey Test Review",
+      "description": ""
+    },
+    {
+      "id": "2c6b2a355e29a0",
+      "date": "2026-11-16",
+      "period": 5,
+      "title": "The Day of Destiny",
+      "description": ""
+    },
+    {
+      "id": "4cc681f5844912",
+      "date": "2026-11-16",
+      "period": 7,
+      "title": "The Day of Destiny",
+      "description": ""
+    },
+    {
+      "id": "eeb037728d16c6",
+      "date": "2026-11-17",
+      "period": 2,
+      "title": "The Day of Destiny",
+      "description": ""
+    },
+    {
+      "id": "79b8dd94c7b1e6",
+      "date": "2026-11-17",
+      "period": 4,
+      "title": "Prewrite / Odyssey Test Review",
+      "description": ""
+    },
+    {
+      "id": "a29454e453f1a3",
+      "date": "2026-11-18",
+      "period": 1,
+      "title": "Vocabulary–Journal Entry 8",
+      "description": "Students will complete Journal Entry 8 and continue the scheduled Semester 1 vocabulary routine."
+    },
+    {
+      "id": "0c43f2f6b87daf",
+      "date": "2026-11-18",
+      "period": 5,
+      "title": "Genius Project–Product Plan, Synthesis, and Feedback",
+      "description": "Students will present their product plan, synthesize research, share developing work, and record feedback and planned revisions."
+    },
+    {
+      "id": "b84e17988be97c",
+      "date": "2026-11-18",
+      "period": 7,
+      "title": "Genius Project–Product Plan, Synthesis, and Feedback",
+      "description": "Students will present their product plan, synthesize research, share developing work, and record feedback and planned revisions."
+    },
+    {
+      "id": "9c254fd4db866d",
+      "date": "2026-11-19",
+      "period": 2,
+      "title": "First Knight / Character Maps Due",
+      "description": ""
+    },
+    {
+      "id": "e34034470a427f",
+      "date": "2026-11-19",
+      "period": 4,
+      "title": "Odyssey Part 2 Test / Vocabulary 3",
+      "description": ""
+    },
+    {
+      "id": "2a0473a9ea255b",
+      "date": "2026-11-20",
+      "period": 1,
+      "title": "Odyssey Part 2 Test / Vocabulary 3",
+      "description": ""
+    },
+    {
+      "id": "7ae9a749b70388",
+      "date": "2026-11-20",
+      "period": 5,
+      "title": "First Knight / Character Maps Due",
+      "description": ""
+    },
+    {
+      "id": "38613bb72e24f0",
+      "date": "2026-11-20",
+      "period": 7,
+      "title": "First Knight / Character Maps Due",
+      "description": ""
+    }
+  ],
+  "classDays": [
+    {
+      "period": 1,
+      "date": "2026-08-12"
+    },
+    {
+      "period": 2,
+      "date": "2026-08-12"
+    },
+    {
+      "period": 4,
+      "date": "2026-08-12"
+    },
+    {
+      "period": 5,
+      "date": "2026-08-12"
+    },
+    {
+      "period": 7,
+      "date": "2026-08-12"
+    },
+    {
+      "period": 1,
+      "date": "2026-08-13"
+    },
+    {
+      "period": 5,
+      "date": "2026-08-13"
+    },
+    {
+      "period": 7,
+      "date": "2026-08-13"
+    },
+    {
+      "period": 2,
+      "date": "2026-08-14"
+    },
+    {
+      "period": 4,
+      "date": "2026-08-14"
+    },
+    {
+      "period": 1,
+      "date": "2026-08-17"
+    },
+    {
+      "period": 5,
+      "date": "2026-08-17"
+    },
+    {
+      "period": 7,
+      "date": "2026-08-17"
+    },
+    {
+      "period": 2,
+      "date": "2026-08-18"
+    },
+    {
+      "period": 4,
+      "date": "2026-08-18"
+    },
+    {
+      "period": 1,
+      "date": "2026-08-19"
+    },
+    {
+      "period": 5,
+      "date": "2026-08-19"
+    },
+    {
+      "period": 7,
+      "date": "2026-08-19"
+    },
+    {
+      "period": 2,
+      "date": "2026-08-20"
+    },
+    {
+      "period": 4,
+      "date": "2026-08-20"
+    },
+    {
+      "period": 1,
+      "date": "2026-08-21"
+    },
+    {
+      "period": 5,
+      "date": "2026-08-21"
+    },
+    {
+      "period": 7,
+      "date": "2026-08-21"
+    },
+    {
+      "period": 2,
+      "date": "2026-08-24"
+    },
+    {
+      "period": 4,
+      "date": "2026-08-24"
+    },
+    {
+      "period": 1,
+      "date": "2026-08-25"
+    },
+    {
+      "period": 5,
+      "date": "2026-08-25"
+    },
+    {
+      "period": 7,
+      "date": "2026-08-25"
+    },
+    {
+      "period": 2,
+      "date": "2026-08-26"
+    },
+    {
+      "period": 4,
+      "date": "2026-08-26"
+    },
+    {
+      "period": 1,
+      "date": "2026-08-27"
+    },
+    {
+      "period": 5,
+      "date": "2026-08-27"
+    },
+    {
+      "period": 7,
+      "date": "2026-08-27"
+    },
+    {
+      "period": 2,
+      "date": "2026-08-28"
+    },
+    {
+      "period": 4,
+      "date": "2026-08-28"
+    },
+    {
+      "period": 1,
+      "date": "2026-08-31"
+    },
+    {
+      "period": 5,
+      "date": "2026-08-31"
+    },
+    {
+      "period": 7,
+      "date": "2026-08-31"
+    },
+    {
+      "period": 2,
+      "date": "2026-09-01"
+    },
+    {
+      "period": 4,
+      "date": "2026-09-01"
+    },
+    {
+      "period": 1,
+      "date": "2026-09-02"
+    },
+    {
+      "period": 5,
+      "date": "2026-09-02"
+    },
+    {
+      "period": 7,
+      "date": "2026-09-02"
+    },
+    {
+      "period": 2,
+      "date": "2026-09-03"
+    },
+    {
+      "period": 4,
+      "date": "2026-09-03"
+    },
+    {
+      "period": 1,
+      "date": "2026-09-04"
+    },
+    {
+      "period": 5,
+      "date": "2026-09-04"
+    },
+    {
+      "period": 7,
+      "date": "2026-09-04"
+    },
+    {
+      "period": 2,
+      "date": "2026-09-08"
+    },
+    {
+      "period": 4,
+      "date": "2026-09-08"
+    },
+    {
+      "period": 1,
+      "date": "2026-09-09"
+    },
+    {
+      "period": 5,
+      "date": "2026-09-09"
+    },
+    {
+      "period": 7,
+      "date": "2026-09-09"
+    },
+    {
+      "period": 2,
+      "date": "2026-09-10"
+    },
+    {
+      "period": 4,
+      "date": "2026-09-10"
+    },
+    {
+      "period": 1,
+      "date": "2026-09-11"
+    },
+    {
+      "period": 5,
+      "date": "2026-09-11"
+    },
+    {
+      "period": 7,
+      "date": "2026-09-11"
+    },
+    {
+      "period": 2,
+      "date": "2026-09-14"
+    },
+    {
+      "period": 4,
+      "date": "2026-09-14"
+    },
+    {
+      "period": 1,
+      "date": "2026-09-15"
+    },
+    {
+      "period": 5,
+      "date": "2026-09-15"
+    },
+    {
+      "period": 7,
+      "date": "2026-09-15"
+    },
+    {
+      "period": 2,
+      "date": "2026-09-16"
+    },
+    {
+      "period": 4,
+      "date": "2026-09-16"
+    },
+    {
+      "period": 1,
+      "date": "2026-09-17"
+    },
+    {
+      "period": 5,
+      "date": "2026-09-17"
+    },
+    {
+      "period": 7,
+      "date": "2026-09-17"
+    },
+    {
+      "period": 2,
+      "date": "2026-09-18"
+    },
+    {
+      "period": 4,
+      "date": "2026-09-18"
+    },
+    {
+      "period": 1,
+      "date": "2026-09-21"
+    },
+    {
+      "period": 5,
+      "date": "2026-09-21"
+    },
+    {
+      "period": 7,
+      "date": "2026-09-21"
+    },
+    {
+      "period": 2,
+      "date": "2026-09-22"
+    },
+    {
+      "period": 4,
+      "date": "2026-09-22"
+    },
+    {
+      "period": 1,
+      "date": "2026-09-23"
+    },
+    {
+      "period": 5,
+      "date": "2026-09-23"
+    },
+    {
+      "period": 7,
+      "date": "2026-09-23"
+    },
+    {
+      "period": 2,
+      "date": "2026-09-24"
+    },
+    {
+      "period": 4,
+      "date": "2026-09-24"
+    },
+    {
+      "period": 1,
+      "date": "2026-09-25"
+    },
+    {
+      "period": 5,
+      "date": "2026-09-25"
+    },
+    {
+      "period": 7,
+      "date": "2026-09-25"
+    },
+    {
+      "period": 2,
+      "date": "2026-09-28"
+    },
+    {
+      "period": 4,
+      "date": "2026-09-28"
+    },
+    {
+      "period": 1,
+      "date": "2026-09-29"
+    },
+    {
+      "period": 5,
+      "date": "2026-09-29"
+    },
+    {
+      "period": 7,
+      "date": "2026-09-29"
+    },
+    {
+      "period": 2,
+      "date": "2026-09-30"
+    },
+    {
+      "period": 4,
+      "date": "2026-09-30"
+    },
+    {
+      "period": 1,
+      "date": "2026-10-01"
+    },
+    {
+      "period": 5,
+      "date": "2026-10-01"
+    },
+    {
+      "period": 7,
+      "date": "2026-10-01"
+    },
+    {
+      "period": 2,
+      "date": "2026-10-02"
+    },
+    {
+      "period": 4,
+      "date": "2026-10-02"
+    },
+    {
+      "period": 1,
+      "date": "2026-10-05"
+    },
+    {
+      "period": 5,
+      "date": "2026-10-05"
+    },
+    {
+      "period": 7,
+      "date": "2026-10-05"
+    },
+    {
+      "period": 2,
+      "date": "2026-10-06"
+    },
+    {
+      "period": 4,
+      "date": "2026-10-06"
+    },
+    {
+      "period": 1,
+      "date": "2026-10-07"
+    },
+    {
+      "period": 5,
+      "date": "2026-10-07"
+    },
+    {
+      "period": 7,
+      "date": "2026-10-07"
+    },
+    {
+      "period": 2,
+      "date": "2026-10-08"
+    },
+    {
+      "period": 4,
+      "date": "2026-10-08"
+    },
+    {
+      "period": 1,
+      "date": "2026-10-09"
+    },
+    {
+      "period": 5,
+      "date": "2026-10-09"
+    },
+    {
+      "period": 7,
+      "date": "2026-10-09"
+    },
+    {
+      "period": 2,
+      "date": "2026-10-19"
+    },
+    {
+      "period": 4,
+      "date": "2026-10-19"
+    },
+    {
+      "period": 1,
+      "date": "2026-10-20"
+    },
+    {
+      "period": 5,
+      "date": "2026-10-20"
+    },
+    {
+      "period": 7,
+      "date": "2026-10-20"
+    },
+    {
+      "period": 2,
+      "date": "2026-10-21"
+    },
+    {
+      "period": 4,
+      "date": "2026-10-21"
+    },
+    {
+      "period": 1,
+      "date": "2026-10-22"
+    },
+    {
+      "period": 5,
+      "date": "2026-10-22"
+    },
+    {
+      "period": 7,
+      "date": "2026-10-22"
+    },
+    {
+      "period": 2,
+      "date": "2026-10-23"
+    },
+    {
+      "period": 4,
+      "date": "2026-10-23"
+    },
+    {
+      "period": 1,
+      "date": "2026-10-26"
+    },
+    {
+      "period": 5,
+      "date": "2026-10-26"
+    },
+    {
+      "period": 7,
+      "date": "2026-10-26"
+    },
+    {
+      "period": 2,
+      "date": "2026-10-27"
+    },
+    {
+      "period": 4,
+      "date": "2026-10-27"
+    },
+    {
+      "period": 1,
+      "date": "2026-10-28"
+    },
+    {
+      "period": 2,
+      "date": "2026-10-28"
+    },
+    {
+      "period": 7,
+      "date": "2026-10-28"
+    },
+    {
+      "period": 2,
+      "date": "2026-10-29"
+    },
+    {
+      "period": 4,
+      "date": "2026-10-29"
+    },
+    {
+      "period": 1,
+      "date": "2026-10-30"
+    },
+    {
+      "period": 5,
+      "date": "2026-10-30"
+    },
+    {
+      "period": 7,
+      "date": "2026-10-30"
+    },
+    {
+      "period": 2,
+      "date": "2026-11-02"
+    },
+    {
+      "period": 4,
+      "date": "2026-11-02"
+    },
+    {
+      "period": 1,
+      "date": "2026-11-03"
+    },
+    {
+      "period": 5,
+      "date": "2026-11-03"
+    },
+    {
+      "period": 7,
+      "date": "2026-11-03"
+    },
+    {
+      "period": 2,
+      "date": "2026-11-04"
+    },
+    {
+      "period": 4,
+      "date": "2026-11-04"
+    },
+    {
+      "period": 1,
+      "date": "2026-11-05"
+    },
+    {
+      "period": 5,
+      "date": "2026-11-05"
+    },
+    {
+      "period": 7,
+      "date": "2026-11-05"
+    },
+    {
+      "period": 2,
+      "date": "2026-11-06"
+    },
+    {
+      "period": 4,
+      "date": "2026-11-06"
+    },
+    {
+      "period": 1,
+      "date": "2026-11-09"
+    },
+    {
+      "period": 5,
+      "date": "2026-11-09"
+    },
+    {
+      "period": 7,
+      "date": "2026-11-09"
+    },
+    {
+      "period": 2,
+      "date": "2026-11-10"
+    },
+    {
+      "period": 4,
+      "date": "2026-11-10"
+    },
+    {
+      "period": 1,
+      "date": "2026-11-12"
+    },
+    {
+      "period": 5,
+      "date": "2026-11-12"
+    },
+    {
+      "period": 7,
+      "date": "2026-11-12"
+    },
+    {
+      "period": 2,
+      "date": "2026-11-13"
+    },
+    {
+      "period": 4,
+      "date": "2026-11-13"
+    },
+    {
+      "period": 1,
+      "date": "2026-11-16"
+    },
+    {
+      "period": 5,
+      "date": "2026-11-16"
+    },
+    {
+      "period": 7,
+      "date": "2026-11-16"
+    },
+    {
+      "period": 2,
+      "date": "2026-11-17"
+    },
+    {
+      "period": 4,
+      "date": "2026-11-17"
+    },
+    {
+      "period": 1,
+      "date": "2026-11-18"
+    },
+    {
+      "period": 5,
+      "date": "2026-11-18"
+    },
+    {
+      "period": 7,
+      "date": "2026-11-18"
+    },
+    {
+      "period": 2,
+      "date": "2026-11-19"
+    },
+    {
+      "period": 4,
+      "date": "2026-11-19"
+    },
+    {
+      "period": 1,
+      "date": "2026-11-20"
+    },
+    {
+      "period": 5,
+      "date": "2026-11-20"
+    },
+    {
+      "period": 7,
+      "date": "2026-11-20"
+    }
+  ],
+  "deadlines": [
+    {
+      "id": "ir-p2-maps",
+      "periods": [
+        2
+      ],
+      "date": "2026-11-19",
+      "kind": "hard",
+      "project": "Independent reading",
+      "title": "Character maps",
+      "description": "",
+      "scope": "long-term"
+    },
+    {
+      "id": "ir-p57-maps",
+      "periods": [
+        5,
+        7
+      ],
+      "date": "2026-11-20",
+      "kind": "hard",
+      "project": "Independent reading",
+      "title": "Character maps",
+      "description": "",
+      "scope": "long-term"
+    },
+    {
+      "id": "ahs-due-62cccf7678f9f9",
+      "date": "2026-09-30",
+      "periods": [
+        2
+      ],
+      "title": "Genius Project question and proposal checkpoint",
+      "kind": "daily",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-99e745e3f55723",
+      "date": "2026-10-07",
+      "periods": [
+        5
+      ],
+      "title": "Genius Project question and proposal",
+      "kind": "daily",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-da50274e6cf5a3",
+      "date": "2026-10-07",
+      "periods": [
+        7
+      ],
+      "title": "Genius Project question and proposal",
+      "kind": "daily",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-b0d91a28e8e1cc",
+      "date": "2026-10-21",
+      "periods": [
+        2
+      ],
+      "title": "Genius Project–Research and Conference 1",
+      "kind": "daily",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-ec9d7d491e05db",
+      "date": "2026-10-28",
+      "periods": [
+        2
+      ],
+      "title": "Genius Project research and conference",
+      "kind": "daily",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-155bb903ca3f8c",
+      "date": "2026-10-28",
+      "periods": [
+        7
+      ],
+      "title": "Genius Project research and conference",
+      "kind": "daily",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-3653a64afe0d52",
+      "date": "2026-11-04",
+      "periods": [
+        2
+      ],
+      "title": "Research",
+      "kind": "daily",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-6117d43dee233e",
+      "date": "2026-11-18",
+      "periods": [
+        5
+      ],
+      "title": "Genius Project–Product Plan, Synthesis, and Feedback",
+      "kind": "daily",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-be38228bdaa9f7",
+      "date": "2026-11-18",
+      "periods": [
+        7
+      ],
+      "title": "Genius Project–Product Plan, Synthesis, and Feedback",
+      "kind": "daily",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-349eda62a5bafb",
+      "date": "2026-11-23",
+      "periods": [
+        2
+      ],
+      "title": "Poetry Recitation",
+      "kind": "hard",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-c23d1d59ffac83",
+      "date": "2026-11-23",
+      "periods": [
+        4
+      ],
+      "title": "Introduction Paragraph",
+      "kind": "hard",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-55a28062b16487",
+      "date": "2026-11-24",
+      "periods": [
+        1
+      ],
+      "title": "Introduction Paragraph",
+      "kind": "hard",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-003a83f3c6ecb2",
+      "date": "2026-11-24",
+      "periods": [
+        5
+      ],
+      "title": "Poetry Recitation",
+      "kind": "hard",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-bceaf930547a78",
+      "date": "2026-11-30",
+      "periods": [
+        4
+      ],
+      "title": "Most Dangerous Game Questions",
+      "kind": "hard",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-b8058292214d2b",
+      "date": "2026-12-01",
+      "periods": [
+        1
+      ],
+      "title": "Most Dangerous Game Questions",
+      "kind": "hard",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-f7ade58f943f93",
+      "date": "2026-12-02",
+      "periods": [
+        4
+      ],
+      "title": "Vocab Quiz",
+      "kind": "hard",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-130dd39371a20c",
+      "date": "2026-12-03",
+      "periods": [
+        1
+      ],
+      "title": "The Interlopers Questions",
+      "kind": "hard",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-28f640f62a9436",
+      "date": "2026-12-03",
+      "periods": [
+        5
+      ],
+      "title": "In-Class Essay - \"What Makes a Hero?\"",
+      "kind": "hard",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-ecae1ca372ec66",
+      "date": "2026-12-03",
+      "periods": [
+        7
+      ],
+      "title": "In-Class Essay - \"What Makes a Hero?\"",
+      "kind": "hard",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-11fe1375c70139",
+      "date": "2026-12-04",
+      "periods": [
+        2
+      ],
+      "title": "In-Class Essay - \"What Makes a Hero?\"",
+      "kind": "hard",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-8265011d3113c7",
+      "date": "2026-12-04",
+      "periods": [
+        4
+      ],
+      "title": "The Interlopers Questions",
+      "kind": "hard",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-f008964bd93052",
+      "date": "2026-12-09",
+      "periods": [
+        1
+      ],
+      "title": "Vocab Quiz",
+      "kind": "hard",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-48d89ee4d92c7d",
+      "date": "2026-12-10",
+      "periods": [
+        4
+      ],
+      "title": "Independent Reading Project",
+      "kind": "hard",
+      "scope": "long-term",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-85ed5764833a67",
+      "date": "2026-12-11",
+      "periods": [
+        1
+      ],
+      "title": "Independent Reading Project",
+      "kind": "hard",
+      "scope": "long-term",
+      "calendarDue": true
+    }
+  ],
+  "plans": [
+    {
+      "id": "602a876d02507a",
+      "date": "2026-11-23",
+      "period": 2,
+      "title": "Poetry Recitation"
+    },
+    {
+      "id": "abc64df2a101a6",
+      "date": "2026-11-23",
+      "period": 4,
+      "title": "Independent Reading Project Planning / Essay Prep"
+    },
+    {
+      "id": "52f21b6141e659",
+      "date": "2026-11-24",
+      "period": 1,
+      "title": "Independent Reading Project Planning / Essay Prep"
+    },
+    {
+      "id": "f2a8db4f112eca",
+      "date": "2026-11-24",
+      "period": 5,
+      "title": "Poetry Recitation"
+    },
+    {
+      "id": "e220f3a6b31612",
+      "date": "2026-11-24",
+      "period": 7,
+      "title": "Poetry Recitation"
+    }
+  ],
+  "assessments": [
+    {
+      "id": "36e0bbfbda9879-0",
+      "period": 1,
+      "date": "2026-10-26",
+      "title": "Odyssey Test",
+      "type": "test"
+    },
+    {
+      "id": "ef6710825524df-0",
+      "period": 4,
+      "date": "2026-10-27",
+      "title": "Odyssey Test",
+      "type": "test"
+    },
+    {
+      "id": "aa24a029e318b3-0",
+      "period": 2,
+      "date": "2026-10-28",
+      "title": "Beowulf Test",
+      "type": "test"
+    },
+    {
+      "id": "a0f82f37b0e9d6-0",
+      "period": 7,
+      "date": "2026-10-28",
+      "title": "Beowulf Test",
+      "type": "test"
+    },
+    {
+      "id": "e34034470a427f-0",
+      "period": 4,
+      "date": "2026-11-19",
+      "title": "Odyssey Part 2 Test",
+      "type": "test"
+    },
+    {
+      "id": "2a0473a9ea255b-0",
+      "period": 1,
+      "date": "2026-11-20",
+      "title": "Odyssey Part 2 Test",
+      "type": "test"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "school-break",
+      "title": "Thanksgiving break · No school",
+      "body": "Nov 25 – Nov 27",
+      "periods": [
+        1,
+        2,
+        4,
+        5,
+        7
+      ],
+      "startsOn": "2026-11-21",
+      "endsOn": "2026-11-27",
+      "priority": 0,
+      "status": "active"
+    },
+    {
+      "id": "vocab-quiz-level-5-extra-credit",
+      "title": "You may take Vocab Quiz Level 5 for extra credit!",
+      "body": "",
+      "periods": [
+        1,
+        4
+      ],
+      "startsOn": null,
+      "endsOn": null,
+      "priority": 0,
+      "status": "active"
+    }
+  ],
+  "automaticNotices": []
+}
