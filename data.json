@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "builtOn": "2026-11-22",
-  "releasedThrough": "2026-11-22",
-  "calendarCheckedOn": "2026-11-22",
+  "builtOn": "2026-11-23",
+  "releasedThrough": "2026-11-29",
+  "calendarCheckedOn": "2026-11-23",
   "termEnd": "2026-12-18",
   "lessons": [
     {
@@ -683,6 +683,41 @@
       "period": 7,
       "title": "First Knight / Character Maps Due",
       "description": ""
+    },
+    {
+      "id": "602a876d02507a",
+      "date": "2026-11-23",
+      "period": 2,
+      "title": "Poetry Recitation",
+      "description": "Finish First Knight"
+    },
+    {
+      "id": "abc64df2a101a6",
+      "date": "2026-11-23",
+      "period": 4,
+      "title": "Independent Reading Project Planning / Essay Prep",
+      "description": ""
+    },
+    {
+      "id": "52f21b6141e659",
+      "date": "2026-11-24",
+      "period": 1,
+      "title": "Independent Reading Project Planning / Essay Prep",
+      "description": ""
+    },
+    {
+      "id": "f2a8db4f112eca",
+      "date": "2026-11-24",
+      "period": 5,
+      "title": "Poetry Recitation",
+      "description": ""
+    },
+    {
+      "id": "e220f3a6b31612",
+      "date": "2026-11-24",
+      "period": 7,
+      "title": "Poetry Recitation",
+      "description": "Finish First Knight"
     }
   ],
   "classDays": [
@@ -1357,6 +1392,26 @@
     {
       "period": 7,
       "date": "2026-11-20"
+    },
+    {
+      "period": 2,
+      "date": "2026-11-23"
+    },
+    {
+      "period": 4,
+      "date": "2026-11-23"
+    },
+    {
+      "period": 1,
+      "date": "2026-11-24"
+    },
+    {
+      "period": 5,
+      "date": "2026-11-24"
+    },
+    {
+      "period": 7,
+      "date": "2026-11-24"
     }
   ],
   "deadlines": [
@@ -1652,34 +1707,76 @@
   ],
   "plans": [
     {
-      "id": "602a876d02507a",
-      "date": "2026-11-23",
+      "id": "43f991df010049",
+      "date": "2026-11-30",
       "period": 2,
-      "title": "Poetry Recitation"
+      "title": "Essay Prep"
     },
     {
-      "id": "abc64df2a101a6",
-      "date": "2026-11-23",
+      "id": "569f12ff40f1b5",
+      "date": "2026-11-30",
       "period": 4,
-      "title": "Independent Reading Project Planning / Essay Prep"
+      "title": "The Most Dangerous Game"
     },
     {
-      "id": "52f21b6141e659",
-      "date": "2026-11-24",
+      "id": "e7218088799bd2",
+      "date": "2026-12-01",
       "period": 1,
-      "title": "Independent Reading Project Planning / Essay Prep"
+      "title": "The Most Dangerous Game"
     },
     {
-      "id": "f2a8db4f112eca",
-      "date": "2026-11-24",
+      "id": "a87bb0441c5caf",
+      "date": "2026-12-01",
       "period": 5,
-      "title": "Poetry Recitation"
+      "title": "Essay Prep"
     },
     {
-      "id": "e220f3a6b31612",
-      "date": "2026-11-24",
+      "id": "cdcfb7bc77f067",
+      "date": "2026-12-01",
       "period": 7,
-      "title": "Poetry Recitation"
+      "title": "Essay Prep"
+    },
+    {
+      "id": "82dabfd45090a5",
+      "date": "2026-12-02",
+      "period": 2,
+      "title": "Genius Project–Feedback and Conference 2"
+    },
+    {
+      "id": "9e929901654a05",
+      "date": "2026-12-02",
+      "period": 4,
+      "title": "Vocabulary / Journal Entry"
+    },
+    {
+      "id": "da517c96f8446f",
+      "date": "2026-12-03",
+      "period": 1,
+      "title": "The Interlopers"
+    },
+    {
+      "id": "64ae0271f50706",
+      "date": "2026-12-03",
+      "period": 5,
+      "title": "In-Class Essay"
+    },
+    {
+      "id": "bc8e533647973b",
+      "date": "2026-12-03",
+      "period": 7,
+      "title": "In-Class Essay"
+    },
+    {
+      "id": "b7beefaea496e9",
+      "date": "2026-12-04",
+      "period": 2,
+      "title": "In-Class Essay"
+    },
+    {
+      "id": "74b1df781650ed",
+      "date": "2026-12-04",
+      "period": 4,
+      "title": "The Interlopers"
     }
   ],
   "assessments": [
@@ -1757,5 +1854,50 @@
       "status": "active"
     }
   ],
-  "automaticNotices": []
+  "automaticNotices": [
+    {
+      "id": "project-notice-gen-p57-step9-p5",
+      "title": "Genius Project · Step 9: Final Submission and Presentation Opening",
+      "periods": [
+        5
+      ],
+      "date": "2026-12-09",
+      "label": "Planned due",
+      "endsOn": "2026-12-09",
+      "startsOn": "2026-11-25"
+    },
+    {
+      "id": "project-notice-gen-p57-step9-p7",
+      "title": "Genius Project · Step 9: Final Submission and Presentation Opening",
+      "periods": [
+        7
+      ],
+      "date": "2026-12-09",
+      "label": "Planned due",
+      "endsOn": "2026-12-09",
+      "startsOn": "2026-11-25"
+    },
+    {
+      "id": "project-notice-ahs-due-48d89ee4d92c7d",
+      "title": "Independent Reading Project",
+      "periods": [
+        4
+      ],
+      "date": "2026-12-10",
+      "label": "Due",
+      "endsOn": "2026-12-10",
+      "startsOn": "2026-11-26"
+    },
+    {
+      "id": "project-notice-ahs-due-85ed5764833a67",
+      "title": "Independent Reading Project",
+      "periods": [
+        1
+      ],
+      "date": "2026-12-11",
+      "label": "Due",
+      "endsOn": "2026-12-11",
+      "startsOn": "2026-11-27"
+    }
+  ]
 }
