@@ -689,7 +689,7 @@
       "date": "2026-11-23",
       "period": 2,
       "title": "Poetry Recitation",
-      "description": "Finish First Knight"
+      "description": ""
     },
     {
       "id": "abc64df2a101a6",
@@ -717,7 +717,7 @@
       "date": "2026-11-24",
       "period": 7,
       "title": "Poetry Recitation",
-      "description": "Finish First Knight"
+      "description": ""
     }
   ],
   "classDays": [
@@ -1551,6 +1551,17 @@
       "calendarDue": true
     },
     {
+      "id": "ahs-due-f662b72d31d768",
+      "date": "2026-11-23",
+      "periods": [
+        2
+      ],
+      "title": "First Knight Video WS",
+      "kind": "hard",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
       "id": "ahs-due-c23d1d59ffac83",
       "date": "2026-11-23",
       "periods": [
@@ -1579,6 +1590,39 @@
         5
       ],
       "title": "Poetry Recitation",
+      "kind": "hard",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-ce85421b26f81d",
+      "date": "2026-11-24",
+      "periods": [
+        5
+      ],
+      "title": "First Knight Video WS",
+      "kind": "hard",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-43cd74eeaf94ef",
+      "date": "2026-11-24",
+      "periods": [
+        7
+      ],
+      "title": "Poetry Recitation",
+      "kind": "hard",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-f719553be25be7",
+      "date": "2026-11-24",
+      "periods": [
+        7
+      ],
+      "title": "First Knight Video WS",
       "kind": "hard",
       "scope": "daily",
       "calendarDue": true
