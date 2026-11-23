@@ -62,11 +62,15 @@ export function hardDates(data, period) {
   return data.deadlines.filter(item => item.periods.includes(period) && item.kind === "hard");
 }
 export function dueNextDates(data, period) {
-  return hardDates(data, period).filter(item => item.calendarDue || item.scope === "long-term")
+  return data.deadlines.filter(item => item.periods.includes(period) &&
+    ((item.kind === "hard" && (item.calendarDue || item.scope === "long-term")) ||
+      (item.kind === "daily" && item.calendarDue && data.windowStart &&
+        item.date >= data.windowStart && item.date <= data.planningThrough)))
     .sort((a, b) => a.date.localeCompare(b.date));
 }
 export function dueLastDates(data, period, today) {
-  const past = data.deadlines.filter(item => item.periods.includes(period)
+  const past = [...(data.lastDue || []), ...data.deadlines].filter((item, index, all) =>
+    all.findIndex(other => other.id === item.id && other.date === item.date) === index).filter(item => item.periods.includes(period)
     && item.date < today
     && (item.kind === "hard" || (item.kind === "daily" && item.date <= data.releasedThrough)));
   for (const assessment of data.assessments || []) {
@@ -119,22 +123,27 @@ export function maximumWeek(data, period, today) {
 }
 export function maximumMonth(data, period, today) {
   const boundedToday = today > TERM_END ? TERM_END : today;
-  const currentThrough = [weekEnd(boundedToday), TERM_END].sort()[0];
+  const currentThrough = [nextWeekRange(boundedToday).through, TERM_END].sort()[0];
   return hardDates(data, period).reduce(
     (maximum, item) => item.date > maximum ? item.date : maximum, currentThrough,
   ).slice(0, 7);
 }
 export function calendarItems(data, period, from, through, today) {
   const cutoff = [weekEnd(today), data.releasedThrough, TERM_END].sort()[0];
+  const first = "2026-08-12";
+  const planningEnd = [nextWeekRange(today).through, TERM_END].sort()[0];
   const lessons = data.lessons.filter(item => item.period === period
-    && item.date >= from && item.date <= through && item.date <= cutoff)
+    && item.date >= from && item.date >= first && item.date <= through && item.date <= cutoff)
     .map(item => ({ ...item, category: "lesson" }));
   const deadlines = data.deadlines.filter(item => item.periods.includes(period)
-    && item.date >= from && item.date <= through
-    && (item.kind === "hard" || (item.date <= cutoff &&
+    && item.date >= from && item.date >= first && item.date <= through
+    && (item.kind === "hard" || (item.date <= planningEnd &&
       (item.kind === "daily" || (item.calendarDue && item.kind === "proposed")))))
     .map(item => ({ ...item, category: "hard" }));
-  return [...lessons, ...deadlines].sort(
+  const plans = nextWeekPlans(data, period, today).filter(item =>
+    item.date >= from && item.date <= through && item.date <= TERM_END)
+    .map(item => ({...item, kind:"plan", category:"plan"}));
+  return [...lessons, ...plans, ...deadlines].sort(
     (a, b) => a.date.localeCompare(b.date) || (a.category === "hard" ? -1 : 1),
   );
 }
@@ -144,7 +153,7 @@ export function classLogDays(data, period, from, through, today) {
   const plans = nextWeekPlans(data, period, today).filter(item =>
     item.date >= from && item.date <= through && item.date <= TERM_END);
   const meetings = (data.classDays || []).filter(item => item.period === period
-    && item.date >= from && item.date <= through && item.date <= cutoff);
+    && item.date >= from && item.date >= "2026-08-12" && item.date <= through && item.date <= cutoff);
   const dates = [...new Set([...meetings, ...items, ...plans].map(item => item.date))].sort();
   return dates.map(date => ({
     date,

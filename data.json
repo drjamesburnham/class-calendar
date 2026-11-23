@@ -4,6 +4,8 @@
   "releasedThrough": "2026-11-29",
   "calendarCheckedOn": "2026-11-23",
   "termEnd": "2026-12-18",
+  "windowStart": "2026-08-12",
+  "planningThrough": "2026-12-06",
   "lessons": [
     {
       "id": "8af429ae37594c",
@@ -1441,6 +1443,30 @@
       "scope": "long-term"
     },
     {
+      "id": "gen-p2-step7",
+      "periods": [
+        2
+      ],
+      "kind": "proposed",
+      "project": "Genius Project · Step 7",
+      "title": "Development and Peer Feedback",
+      "scope": "long-term",
+      "date": "2026-12-02",
+      "calendarDue": true
+    },
+    {
+      "id": "gen-p2-step8",
+      "periods": [
+        2
+      ],
+      "kind": "proposed",
+      "project": "Genius Project · Step 8",
+      "title": "Second Conference and Final Revision Plan",
+      "scope": "long-term",
+      "date": "2026-12-02",
+      "calendarDue": true
+    },
+    {
       "id": "ahs-due-62cccf7678f9f9",
       "date": "2026-09-30",
       "periods": [
@@ -1546,7 +1572,7 @@
         2
       ],
       "title": "Poetry Recitation",
-      "kind": "hard",
+      "kind": "daily",
       "scope": "daily",
       "calendarDue": true
     },
@@ -1557,7 +1583,7 @@
         2
       ],
       "title": "First Knight Video WS",
-      "kind": "hard",
+      "kind": "daily",
       "scope": "daily",
       "calendarDue": true
     },
@@ -1568,7 +1594,7 @@
         4
       ],
       "title": "Introduction Paragraph",
-      "kind": "hard",
+      "kind": "daily",
       "scope": "daily",
       "calendarDue": true
     },
@@ -1579,7 +1605,7 @@
         1
       ],
       "title": "Introduction Paragraph",
-      "kind": "hard",
+      "kind": "daily",
       "scope": "daily",
       "calendarDue": true
     },
@@ -1590,7 +1616,7 @@
         5
       ],
       "title": "Poetry Recitation",
-      "kind": "hard",
+      "kind": "daily",
       "scope": "daily",
       "calendarDue": true
     },
@@ -1601,7 +1627,7 @@
         5
       ],
       "title": "First Knight Video WS",
-      "kind": "hard",
+      "kind": "daily",
       "scope": "daily",
       "calendarDue": true
     },
@@ -1612,7 +1638,7 @@
         7
       ],
       "title": "Poetry Recitation",
-      "kind": "hard",
+      "kind": "daily",
       "scope": "daily",
       "calendarDue": true
     },
@@ -1623,7 +1649,7 @@
         7
       ],
       "title": "First Knight Video WS",
-      "kind": "hard",
+      "kind": "daily",
       "scope": "daily",
       "calendarDue": true
     },
@@ -1634,7 +1660,7 @@
         4
       ],
       "title": "Most Dangerous Game Questions",
-      "kind": "hard",
+      "kind": "daily",
       "scope": "daily",
       "calendarDue": true
     },
@@ -1645,7 +1671,7 @@
         1
       ],
       "title": "Most Dangerous Game Questions",
-      "kind": "hard",
+      "kind": "daily",
       "scope": "daily",
       "calendarDue": true
     },
@@ -1656,7 +1682,7 @@
         4
       ],
       "title": "Vocab Quiz",
-      "kind": "hard",
+      "kind": "daily",
       "scope": "daily",
       "calendarDue": true
     },
@@ -1667,7 +1693,7 @@
         1
       ],
       "title": "The Interlopers Questions",
-      "kind": "hard",
+      "kind": "daily",
       "scope": "daily",
       "calendarDue": true
     },
@@ -1678,7 +1704,7 @@
         5
       ],
       "title": "In-Class Essay - \"What Makes a Hero?\"",
-      "kind": "hard",
+      "kind": "daily",
       "scope": "daily",
       "calendarDue": true
     },
@@ -1689,7 +1715,7 @@
         7
       ],
       "title": "In-Class Essay - \"What Makes a Hero?\"",
-      "kind": "hard",
+      "kind": "daily",
       "scope": "daily",
       "calendarDue": true
     },
@@ -1700,7 +1726,7 @@
         2
       ],
       "title": "In-Class Essay - \"What Makes a Hero?\"",
-      "kind": "hard",
+      "kind": "daily",
       "scope": "daily",
       "calendarDue": true
     },
@@ -1711,18 +1737,7 @@
         4
       ],
       "title": "The Interlopers Questions",
-      "kind": "hard",
-      "scope": "daily",
-      "calendarDue": true
-    },
-    {
-      "id": "ahs-due-f008964bd93052",
-      "date": "2026-12-09",
-      "periods": [
-        1
-      ],
-      "title": "Vocab Quiz",
-      "kind": "hard",
+      "kind": "daily",
       "scope": "daily",
       "calendarDue": true
     },
@@ -1867,6 +1882,63 @@
       "type": "test"
     }
   ],
+  "lastDue": [
+    {
+      "id": "2a0473a9ea255b-0",
+      "date": "2026-11-20",
+      "title": "Odyssey Part 2 Test",
+      "type": "test",
+      "periods": [
+        1
+      ],
+      "kind": "daily"
+    },
+    {
+      "id": "ir-p2-maps",
+      "periods": [
+        2
+      ],
+      "date": "2026-11-19",
+      "kind": "hard",
+      "project": "Independent reading",
+      "title": "Character maps",
+      "scope": "long-term"
+    },
+    {
+      "id": "e34034470a427f-0",
+      "date": "2026-11-19",
+      "title": "Odyssey Part 2 Test",
+      "type": "test",
+      "periods": [
+        4
+      ],
+      "kind": "daily"
+    },
+    {
+      "id": "ir-p57-maps",
+      "periods": [
+        5,
+        7
+      ],
+      "date": "2026-11-20",
+      "kind": "hard",
+      "project": "Independent reading",
+      "title": "Character maps",
+      "scope": "long-term"
+    },
+    {
+      "id": "ir-p57-maps",
+      "periods": [
+        5,
+        7
+      ],
+      "date": "2026-11-20",
+      "kind": "hard",
+      "project": "Independent reading",
+      "title": "Character maps",
+      "scope": "long-term"
+    }
+  ],
   "announcements": [
     {
       "id": "school-break",
@@ -1896,52 +1968,31 @@
       "endsOn": null,
       "priority": 0,
       "status": "active"
-    }
-  ],
-  "automaticNotices": [
-    {
-      "id": "project-notice-gen-p57-step9-p5",
-      "title": "Genius Project · Step 9: Final Submission and Presentation Opening",
-      "periods": [
-        5
-      ],
-      "date": "2026-12-09",
-      "label": "Planned due",
-      "endsOn": "2026-12-09",
-      "startsOn": "2026-11-25"
     },
     {
-      "id": "project-notice-gen-p57-step9-p7",
-      "title": "Genius Project · Step 9: Final Submission and Presentation Opening",
-      "periods": [
-        7
-      ],
-      "date": "2026-12-09",
-      "label": "Planned due",
-      "endsOn": "2026-12-09",
-      "startsOn": "2026-11-25"
-    },
-    {
-      "id": "project-notice-ahs-due-48d89ee4d92c7d",
-      "title": "Independent Reading Project",
+      "id": "independent-reading-project-firm-period-4",
+      "title": "Independent Reading Project due Thursday, December 10",
+      "body": "You must turn in your project by this date.",
       "periods": [
         4
       ],
-      "date": "2026-12-10",
-      "label": "Due",
+      "startsOn": "2026-11-23",
       "endsOn": "2026-12-10",
-      "startsOn": "2026-11-26"
+      "priority": 100,
+      "status": "active"
     },
     {
-      "id": "project-notice-ahs-due-85ed5764833a67",
-      "title": "Independent Reading Project",
+      "id": "independent-reading-project-firm-period-1",
+      "title": "Independent Reading Project due Friday, December 11",
+      "body": "You must turn in your project by this date.",
       "periods": [
         1
       ],
-      "date": "2026-12-11",
-      "label": "Due",
+      "startsOn": "2026-11-23",
       "endsOn": "2026-12-11",
-      "startsOn": "2026-11-27"
+      "priority": 100,
+      "status": "active"
     }
-  ]
+  ],
+  "automaticNotices": []
 }

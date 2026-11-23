@@ -35,7 +35,7 @@ function clampWeek() {
   state.week = [state.week || currentWeek, minimumWeek].sort().at(-1);
   if (state.week > last) state.week = last;
   const lastMonth = maximumMonth(data, state.period, today);
-  if (state.month < "2026-08") state.month = "2026-08";
+  if (state.month < minimumWeek.slice(0, 7)) state.month = minimumWeek.slice(0, 7);
   if (state.month > lastMonth) state.month = lastMonth;
 }
 function choosePeriod(period, focus = false) {
@@ -231,7 +231,7 @@ function drawCalendar() {
   const monthFrom = state.month + "-01";
   const monthThrough = new Date(Date.UTC(Number(monthFrom.slice(0, 4)), Number(monthFrom.slice(5, 7)), 0)).toISOString().slice(0, 10);
   $("month-title").textContent = dateLabel(monthFrom, { month: "long", year: "numeric", day: undefined });
-  $("previous-month").disabled = monthFrom <= "2026-08-01";
+  $("previous-month").disabled = state.month <= minimumWeek.slice(0, 7);
   $("next-month").disabled = state.month >= maximumMonth(data, state.period, today);
   $("month-content").replaceChildren(drawMonth(monthFrom, monthThrough));
 
