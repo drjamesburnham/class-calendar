@@ -697,7 +697,7 @@
       "id": "abc64df2a101a6",
       "date": "2026-11-23",
       "period": 4,
-      "title": "Independent Reading Project Planning / Essay Prep",
+      "title": "Independent Reading Project Planning / Thesis Statement PowerPoint",
       "description": ""
     },
     {
@@ -705,7 +705,7 @@
       "date": "2026-11-24",
       "period": 1,
       "title": "Independent Reading Project Planning / Essay Prep",
-      "description": ""
+      "description": "Thesis Template Practice"
     },
     {
       "id": "f2a8db4f112eca",
@@ -1588,28 +1588,6 @@
       "calendarDue": true
     },
     {
-      "id": "ahs-due-c23d1d59ffac83",
-      "date": "2026-11-23",
-      "periods": [
-        4
-      ],
-      "title": "Introduction Paragraph",
-      "kind": "daily",
-      "scope": "daily",
-      "calendarDue": true
-    },
-    {
-      "id": "ahs-due-55a28062b16487",
-      "date": "2026-11-24",
-      "periods": [
-        1
-      ],
-      "title": "Introduction Paragraph",
-      "kind": "daily",
-      "scope": "daily",
-      "calendarDue": true
-    },
-    {
       "id": "ahs-due-003a83f3c6ecb2",
       "date": "2026-11-24",
       "periods": [
@@ -1649,6 +1627,17 @@
         7
       ],
       "title": "First Knight Video WS",
+      "kind": "daily",
+      "scope": "daily",
+      "calendarDue": true
+    },
+    {
+      "id": "ahs-due-eabc15ee04c6d4",
+      "date": "2026-11-30",
+      "periods": [
+        4
+      ],
+      "title": "Thesis Template Practice",
       "kind": "daily",
       "scope": "daily",
       "calendarDue": true
