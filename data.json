@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "builtOn": "2026-11-23",
+  "builtOn": "2026-11-24",
   "releasedThrough": "2026-11-29",
-  "calendarCheckedOn": "2026-11-23",
+  "calendarCheckedOn": "2026-11-24",
   "termEnd": "2026-12-18",
   "windowStart": "2026-08-12",
   "planningThrough": "2026-12-06",
@@ -1883,15 +1883,24 @@
       "kind": "daily"
     },
     {
-      "id": "ir-p2-maps",
+      "id": "ahs-due-349eda62a5bafb",
+      "date": "2026-11-23",
       "periods": [
         2
       ],
-      "date": "2026-11-19",
-      "kind": "hard",
-      "project": "Independent reading",
-      "title": "Character maps",
-      "scope": "long-term"
+      "title": "Poetry Recitation",
+      "kind": "daily",
+      "scope": "daily"
+    },
+    {
+      "id": "ahs-due-f662b72d31d768",
+      "date": "2026-11-23",
+      "periods": [
+        2
+      ],
+      "title": "First Knight Video WS",
+      "kind": "daily",
+      "scope": "daily"
     },
     {
       "id": "e34034470a427f-0",
