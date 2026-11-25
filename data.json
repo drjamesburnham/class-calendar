@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "builtOn": "2026-11-24",
+  "builtOn": "2026-11-25",
   "releasedThrough": "2026-11-29",
-  "calendarCheckedOn": "2026-11-24",
+  "calendarCheckedOn": "2026-11-25",
   "termEnd": "2026-12-18",
   "windowStart": "2026-08-12",
   "planningThrough": "2026-12-06",
@@ -1913,28 +1913,44 @@
       "kind": "daily"
     },
     {
-      "id": "ir-p57-maps",
+      "id": "ahs-due-003a83f3c6ecb2",
+      "date": "2026-11-24",
       "periods": [
-        5,
-        7
+        5
       ],
-      "date": "2026-11-20",
-      "kind": "hard",
-      "project": "Independent reading",
-      "title": "Character maps",
-      "scope": "long-term"
+      "title": "Poetry Recitation",
+      "kind": "daily",
+      "scope": "daily"
     },
     {
-      "id": "ir-p57-maps",
+      "id": "ahs-due-ce85421b26f81d",
+      "date": "2026-11-24",
       "periods": [
-        5,
+        5
+      ],
+      "title": "First Knight Video WS",
+      "kind": "daily",
+      "scope": "daily"
+    },
+    {
+      "id": "ahs-due-43cd74eeaf94ef",
+      "date": "2026-11-24",
+      "periods": [
         7
       ],
-      "date": "2026-11-20",
-      "kind": "hard",
-      "project": "Independent reading",
-      "title": "Character maps",
-      "scope": "long-term"
+      "title": "Poetry Recitation",
+      "kind": "daily",
+      "scope": "daily"
+    },
+    {
+      "id": "ahs-due-f719553be25be7",
+      "date": "2026-11-24",
+      "periods": [
+        7
+      ],
+      "title": "First Knight Video WS",
+      "kind": "daily",
+      "scope": "daily"
     }
   ],
   "announcements": [
