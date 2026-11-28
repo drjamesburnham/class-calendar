@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "builtOn": "2026-11-27",
+  "builtOn": "2026-11-28",
   "releasedThrough": "2026-11-29",
-  "calendarCheckedOn": "2026-11-27",
+  "calendarCheckedOn": "2026-11-28",
   "termEnd": "2026-12-18",
   "windowStart": "2026-08-12",
   "planningThrough": "2026-12-06",
@@ -1954,22 +1954,6 @@
     }
   ],
   "announcements": [
-    {
-      "id": "school-break",
-      "title": "Thanksgiving break · No school",
-      "body": "Nov 25 – Nov 27",
-      "periods": [
-        1,
-        2,
-        4,
-        5,
-        7
-      ],
-      "startsOn": "2026-11-21",
-      "endsOn": "2026-11-27",
-      "priority": 0,
-      "status": "active"
-    },
     {
       "id": "vocab-quiz-level-5-extra-credit",
       "title": "You may take Vocab Quiz Level 5 for extra credit!",
